@@ -10,7 +10,7 @@ Kaggle source: https://www.kaggle.com/datasets/bhuvaneshwarisa/student-performan
 This dataset is taken from Kaggle, which contains anonymized academic and demographic information about students, along with their final GPA and a derived grade category (GradeClass).  The features include variables such as study time per week, absences, parental education, extracurricular involvement, and support indicators, making it suitable for educational analytics and grade classification tasks.
 
 3.	Features and target columns
-The following columns are used as **features** (inputs) to the models: -
+The following columns are used as features (inputs) to the models: -
 The following columns from `Student_performance_data.xlsx` are used as features: - 
 
 1.	Age
@@ -84,4 +84,4 @@ What app does:
 •	Visualization of confusion matrix and classification report
 •	Metrics per class and per model report
 
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/c876c36d-2c5e-41f4-9240-a1d3498fac11" />
+<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/c3c08e12-fa07-4d73-9eb0-9b238393d29c" />
