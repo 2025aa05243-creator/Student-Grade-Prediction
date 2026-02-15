@@ -25,7 +25,7 @@ def load_models():
 
 models, scaler, feature_cols = load_models()
 
-st.title("Students Performance Classification – ML Assignment 2")
+st.title("Students Grade Prediction – ML Assignment 2")
 
 st.sidebar.header("Options")
 
